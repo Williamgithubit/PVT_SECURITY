@@ -14,7 +14,7 @@ const content = [
     {
         image: <img src={image2} className="lg:h-48 md:h-36 w-full object-center object-cover" alt="service" />, // Fixed <img> tag
         title: "Transport Security",
-        description: "Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.",
+        description: "Photo booth d fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.",
         learn_more: "/" // Added text to Link component
     },
     {
