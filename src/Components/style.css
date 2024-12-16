@@ -1,12 +1,12 @@
 .hero-section{
-   background: url("../Public/Asserts/banner-1-1.jpg");;
+   background: url("/Asserts/banner-1-1.jpg");;
    /* background: linear-gradient(rgba(60, 6, 177, 0.621), rgba(137, 68, 249, 0.5)), url("../../Public/Asserts/banner-1-1.jpg"); */
    background-repeat: no-repeat;
    background-size: cover;
 }
 
 .section-banner{
-    background: url("../Public/Asserts/banner-1-2.jpg");
+    background: url("/Asserts/banner-1-2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-size: 100%;
