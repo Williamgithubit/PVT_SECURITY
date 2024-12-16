@@ -75,7 +75,7 @@ const Header = () => {
               {/* Contact Button */}
               <li>
                 <Link
-                  to="/contact"
+                  to="/"
                   className="text-[18px] block py-2 md:py-0 hover:text-blue-700 hover:underline"
                 >
                   Contact
